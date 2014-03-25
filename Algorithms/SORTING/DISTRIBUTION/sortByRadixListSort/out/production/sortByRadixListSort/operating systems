@@ -1,0 +1,117 @@
+OS(Operating System)
+    Computer OS
+        Microsoft Windows
+            Windows 3.1
+            Windows 95
+            Windows 98
+            Windows Me
+            Windows NT 4
+            Windows 2000 [Server]
+            Windows XP
+            Windows XP (64 bit)
+            Windows 2003 [Server]
+            Windows 2003 (64 bit) [Server]
+            Windows Vista
+            Windows Vista (64 bit)
+            Windows 2008 [Server]
+            Windows 2008 (64 bit) [Server]
+            Windows 7
+            Windows 7 (64 bit)
+            Windows 8
+            Windows 8 (64 bit)
+            Windows 2012 (64 bit) [Server]
+            Other Windows
+        Linux
+            Linux 2.2
+            Linux 2.4
+            Linux 2.4 (64 bit)
+            Linux 2.6
+            Linux 2.6 (64 bit)
+            Arch Linux
+            Arch Linux (64 bit)
+            Debian
+            Debian (64 bit)
+            openSUSE
+            openSUSE (64 bit)
+            Fedora
+            Fedora (64 bit)
+            Gentoo
+            Gentoo (64 bit)
+            Mandriva
+            Mandriva (64 bit)
+            Red Hat
+            Red Hat (64 bit)
+            Turbolinux
+            Turbolinux (64 bit)
+            Ubuntu
+            Ubuntu (64 bit)
+            Xandros
+            Xandros (64 bit)
+            Oracle
+            Oracle (64 bit)
+            Linux Mint
+            StartOS
+            BackTrack
+            Other Linux
+        Solaris
+            Oracle Solaris 10 5/09 and earlier
+            Oracle Solaris 10 5/09 and earlier (64 bit)
+            Oracle Solaris 10 10/09 and later
+            Oracle Solaris 10 10/09 and later (64 bit)
+        BSD
+            FreeBSD
+            FreeBSD (64 bit)
+            OpenBSD
+            OpenBSD (64 bit)
+            NetBSD
+            NetBSD (64 bit)
+        IBM OS/2
+            OS/2 Warp 3
+            OS/2 Warp 4
+            OS/2 Warp 4.5
+            eComStation
+            Other OS/2
+        Mac OS X
+            Mac OS X v10.0 {Cheetah}
+            Mac OS X v10.1 {Puma}
+            Mac OS X v10.2 {Jaguar}
+            Mac OS X v10.3 {Panther}
+            Mac OS X v10.4 {Tiger}
+            Mac OS X v10.5 {Leopard}
+            Mac OS X v10.6 {Snow Leopard}
+            Mac OS X v10.7 {Lion}
+            Mac OS X v10.8 {Mountain Lion}
+            Mac OS X v10.9 {Mavericks}
+        Other
+            DOS
+            Netware
+            L4
+            Minix
+            QNX
+            JRockitVE
+            Other/Unknown
+    Phone OS
+        Windows Mobile
+        Windows Phone
+        BlackBerry OS
+        Symbian
+        Android
+        Android-Based
+            Sense --HTC
+            LG Optimus --LG
+            CyanogenMod
+            MIUI
+            Emotion UI --HuaWei
+            Blur --Motorola
+            Flyme OS --MEIZU
+        IOS
+        Other
+            Brew
+            Linux
+            Palm OS
+            HP WebOS
+            MeeGo
+            Firefox OS
+            BADA System
+            Tizen System
+            Ubuntu
